@@ -28,6 +28,7 @@ public class Card {
         this.suit = suit;
     }
 
+    //
     public int getCardValue(){
         return this.rank.getValue();
     }
